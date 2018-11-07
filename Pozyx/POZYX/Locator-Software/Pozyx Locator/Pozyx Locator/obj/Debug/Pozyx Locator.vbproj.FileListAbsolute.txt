@@ -1,0 +1,14 @@
+C:\Users\Nilankanc\AppData\Local\Temporary Projects\Pozyx Locator\bin\Debug\Pozyx Locator.exe.config
+C:\Users\Nilankanc\AppData\Local\Temporary Projects\Pozyx Locator\obj\Debug\Pozyx_Locator.Form1.resources
+C:\Users\Nilankanc\AppData\Local\Temporary Projects\Pozyx Locator\obj\Debug\Pozyx_Locator.Resources.resources
+C:\Users\Nilankanc\AppData\Local\Temporary Projects\Pozyx Locator\obj\Debug\Pozyx Locator.vbproj.GenerateResource.Cache
+C:\Users\Nilankanc\Dropbox\15. Arduino\RFID_Dr.YU\Pozy\Locator-Software\Pozyx Locator\Pozyx Locator\bin\Debug\Pozyx Locator.exe.config
+C:\Users\Nilankanc\Dropbox\15. Arduino\RFID_Dr.YU\Pozy\Locator-Software\Pozyx Locator\Pozyx Locator\bin\Debug\Pozyx Locator.exe
+C:\Users\Nilankanc\Dropbox\15. Arduino\RFID_Dr.YU\Pozy\Locator-Software\Pozyx Locator\Pozyx Locator\bin\Debug\Pozyx Locator.pdb
+C:\Users\Nilankanc\Dropbox\15. Arduino\RFID_Dr.YU\Pozy\Locator-Software\Pozyx Locator\Pozyx Locator\bin\Debug\Pozyx Locator.xml
+C:\Users\Nilankanc\Dropbox\15. Arduino\RFID_Dr.YU\Pozy\Locator-Software\Pozyx Locator\Pozyx Locator\obj\Debug\Pozyx_Locator.Form1.resources
+C:\Users\Nilankanc\Dropbox\15. Arduino\RFID_Dr.YU\Pozy\Locator-Software\Pozyx Locator\Pozyx Locator\obj\Debug\Pozyx_Locator.Resources.resources
+C:\Users\Nilankanc\Dropbox\15. Arduino\RFID_Dr.YU\Pozy\Locator-Software\Pozyx Locator\Pozyx Locator\obj\Debug\Pozyx Locator.vbproj.GenerateResource.Cache
+C:\Users\Nilankanc\Dropbox\15. Arduino\RFID_Dr.YU\Pozy\Locator-Software\Pozyx Locator\Pozyx Locator\obj\Debug\Pozyx Locator.exe
+C:\Users\Nilankanc\Dropbox\15. Arduino\RFID_Dr.YU\Pozy\Locator-Software\Pozyx Locator\Pozyx Locator\obj\Debug\Pozyx Locator.xml
+C:\Users\Nilankanc\Dropbox\15. Arduino\RFID_Dr.YU\Pozy\Locator-Software\Pozyx Locator\Pozyx Locator\obj\Debug\Pozyx Locator.pdb
